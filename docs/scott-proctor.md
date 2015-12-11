@@ -2,3 +2,4 @@
 - [ ]  Seattle, WA
  - [ ] pizza
 - [ ] cooking
+- [ ] blue
